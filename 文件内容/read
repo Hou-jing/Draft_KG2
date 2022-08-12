@@ -1,0 +1,16 @@
+处理之后的文件存储
+cont.json_文件内容
+covs.json_文件封面（covers）
+detailterm&refer.json(术语与引用）
+imgurl.json(img上传，捕获在线地址）
+newcont.json(文件内容细加工）
+prefice.json(前言)
+Range.json(范围)
+tabel.json（表格）
+time_cov.json（封面上的时间信息提取）
+
+
+
+parsermore(进一步解析数据）
+    new_title.txt(二分类结果）-是否标题
+    new_cont.csv(做图谱所用数据吗，数据再处理）
