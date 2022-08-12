@@ -35,3 +35,4 @@ pdf2word.py
 ### 标准与标准之间
 ![请添加图片描述](https://img-blog.csdnimg.cn/85ab1288ba1f4b94b452a05252c0ec80.png)
 git地址：
+本机地址：E:\python project\pythonProject_draftKG\文件信息结构化
