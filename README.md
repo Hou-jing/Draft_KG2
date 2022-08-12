@@ -9,20 +9,38 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/682908cc6e43440c911a8875bd330c64.png)
 ## 程序执行
 1.	
+
 GJBremove.py——移除国军标文件
+
 pdf2word.py
+
 文档提取图片.py
+
 文档读取表格.py
+
 2.	
+
 文档内容提取.py——先word2TXT
+
 文档语言判别.py——判断标准是中文or外文
+
 文档内容提取.py——在extract(分章节和模块粗提取)
+
 封面结构化信息提取.py
+
 文档术语提取.py
+
 标准前言信息提取.py
+
 图片链接生成.py
-3.	parser_1.py——对上述结构化信息再整理
-4.	图谱搭建.py
+
+3.	
+
+parser_1.py——对上述结构化信息再整理
+
+4.	
+图谱搭建.py
+
 ## 技术路线
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3859292427624dbc9d54cd142c3d63de.png)
 ## 本体构建
